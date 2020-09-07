@@ -12,6 +12,7 @@ public class day1TestNg {
 	public void lastexecution()
 	{
 		System.out.println("I will execute last");
+		System.out.println("I will execute from the GitHub");
 		
 	}
 
@@ -19,6 +20,7 @@ public class day1TestNg {
 	public void Demo() {
 
 		System.out.println("hello");
+		System.out.println("hello GitHub");
 		AssertJUnit.assertTrue(true);
 		
 
@@ -32,6 +34,7 @@ public class day1TestNg {
 	public void SecondTest() {
 
 		System.out.println("Bye");
+		System.out.println("Bye GitHub");
 
 	}
 }
